@@ -30,19 +30,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6577298D2CA2C0C400C29CBB /* VIewsAndModifiers */ = {
+		6577298D2CA2C0C400C29CBB /* ViewsAndModifiers */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = VIewsAndModifiers;
+			path = ViewsAndModifiers;
 			sourceTree = "<group>";
 		};
-		6577299E2CA2C0C400C29CBB /* VIewsAndModifiersTests */ = {
+		6577299E2CA2C0C400C29CBB /* ViewsAndModifiersTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = VIewsAndModifiersTests;
+			path = ViewsAndModifiersTests;
 			sourceTree = "<group>";
 		};
-		657729A82CA2C0C400C29CBB /* VIewsAndModifiersUITests */ = {
+		657729A82CA2C0C400C29CBB /* ViewsAndModifiersUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = VIewsAndModifiersUITests;
+			path = ViewsAndModifiersUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		657729822CA2C0C400C29CBB = {
 			isa = PBXGroup;
 			children = (
-				6577298D2CA2C0C400C29CBB /* VIewsAndModifiers */,
-				6577299E2CA2C0C400C29CBB /* VIewsAndModifiersTests */,
-				657729A82CA2C0C400C29CBB /* VIewsAndModifiersUITests */,
+				6577298D2CA2C0C400C29CBB /* ViewsAndModifiers */,
+				6577299E2CA2C0C400C29CBB /* ViewsAndModifiersTests */,
+				657729A82CA2C0C400C29CBB /* ViewsAndModifiersUITests */,
 				6577298C2CA2C0C400C29CBB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6577298D2CA2C0C400C29CBB /* VIewsAndModifiers */,
+				6577298D2CA2C0C400C29CBB /* ViewsAndModifiers */,
 			);
 			name = VIewsAndModifiers;
 			packageProductDependencies = (
@@ -131,7 +131,7 @@
 				6577299D2CA2C0C400C29CBB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				6577299E2CA2C0C400C29CBB /* VIewsAndModifiersTests */,
+				6577299E2CA2C0C400C29CBB /* ViewsAndModifiersTests */,
 			);
 			name = VIewsAndModifiersTests;
 			packageProductDependencies = (
@@ -154,7 +154,7 @@
 				657729A72CA2C0C400C29CBB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				657729A82CA2C0C400C29CBB /* VIewsAndModifiersUITests */,
+				657729A82CA2C0C400C29CBB /* ViewsAndModifiersUITests */,
 			);
 			name = VIewsAndModifiersUITests;
 			packageProductDependencies = (
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 657729862CA2C0C400C29CBB /* Build configuration list for PBXProject "VIewsAndModifiers" */;
+			buildConfigurationList = 657729862CA2C0C400C29CBB /* Build configuration list for PBXProject "ViewsAndModifiers" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -515,7 +515,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		657729862CA2C0C400C29CBB /* Build configuration list for PBXProject "VIewsAndModifiers" */ = {
+		657729862CA2C0C400C29CBB /* Build configuration list for PBXProject "ViewsAndModifiers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				657729AD2CA2C0C400C29CBB /* Debug */,
