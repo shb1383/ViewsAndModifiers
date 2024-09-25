@@ -27,7 +27,7 @@ struct ContentView: View {
         VStack {
             Text("SYRENE BARTOLOME")
                 .titleStyle()
-            Text("iOS Developer")
+            Text("Swift Developer")
                 .font(.headline)
         }
         .padding()
